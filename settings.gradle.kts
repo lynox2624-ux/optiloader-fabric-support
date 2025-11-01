@@ -1,1 +1,1 @@
-rootProject.name = "OptiLoader-Proof"
+rootProject.name = "OptiLoader-Fabric-Support"
