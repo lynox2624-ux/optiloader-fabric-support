@@ -3,17 +3,18 @@
   "id": "optiloaderproof",
   "version": "1.0.0",
   "name": "OptiLoader-Proof",
-  "description": "A compatibility layer to load Fabric mods in OptiFine environment",
-  "authors": ["YourName"],
-  "contact": {},
+  "description": "Runs Fabric-style mods inside OptiFine client. A bridge loader.",
+  "authors": [
+    "Subhash Gurva"
+  ],
+  "contact": {
+    "sources": "https://github.com/SubhashGurva/optiloader-fabric-support"
+  },
   "license": "MIT",
-  "environment": "*",
+  "environment": "client",
   "entrypoints": {
     "main": [
       "com.optiloaderproof.OptiLoaderBootstrap"
     ]
   },
   "depends": {
-    "fabricloader": ">=0.14.0"
-  }
-}
