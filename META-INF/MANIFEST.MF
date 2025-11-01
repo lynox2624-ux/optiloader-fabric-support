@@ -1,1 +1,5 @@
-
+Manifest-Version: 1.0
+Mod-Name: OptiLoader-Proof
+Main-Class: com.optiloaderproof.OptiLoaderBootstrap
+Mod-Version: 1.0.0
+Fabric-Compat: true
