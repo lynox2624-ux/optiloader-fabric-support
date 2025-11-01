@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "optiloaderproof",
+  "version": "1.0.0",
+  "name": "OptiLoader-Proof",
+  "description": "A compatibility layer to load Fabric mods in OptiFine environment",
+  "authors": ["YourName"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.optiloaderproof.OptiLoaderBootstrap"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0"
+  }
+}
